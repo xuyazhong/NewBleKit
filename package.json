@@ -5,7 +5,7 @@
   "main": "BleManager",
   "repository": {
     "type": "git",
-    "url": "https://github.com/innoveit/react-native-ble-manager.git"
+    "url": "https://github.com/xuyazhong/NewBleKit.git"
   },
   "bugs": {
     "url": "https://github.com/innoveit/react-native-ble-manager/issues"
@@ -21,7 +21,7 @@
   "license": "Apache-2.0",
   "author": {
     "name": "Innove",
-    "url": "https://github.com/innoveit"
+    "url": "https://github.com/xuyazhong/"
   },
   "scripts": {
     "version": "git add -A",

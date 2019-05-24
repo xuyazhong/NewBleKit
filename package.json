@@ -2,7 +2,7 @@
   "name": "react-native-ble-manager",
   "version": "6.6.0",
   "description": "A BLE module for react native.",
-  "main": "BleManager",
+  "main": "./BLEKit.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/xuyazhong/NewBleKit.git"
